@@ -16,6 +16,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  # Lint
+  pedantic_mono: 1.13.0+3
+  dart_code_metrics: 4.0.1
+
 flutter:
 
   uses-material-design: true
